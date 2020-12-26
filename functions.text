@@ -1,7 +1,7 @@
 <?php
 /*For Navigation Bar*/
 register_nav_menus(array(
-    'primary' => __('Primary Menu', 'menu1'),
+    'primary' => __('Primary Menu', 'mejunu1'),
     'secondary' => __('Secondary Menu','menu2')
 ));
 /*For Logo and Title*/
